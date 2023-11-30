@@ -1,0 +1,10 @@
+table{background-color: #c2c2d6; width: 100%;margin-left: auto;margin-right: auto;border-radius: 25px; height: 100px;}
+th,td{border-style: solid;background-color: #ccb3ff;border-color: #c2c2d6;}
+th{font-size: 25px;font-family: "Times New Roman";}
+.titulo{font-size: 75px;font-family: "Times New Roman", Times, serif;;border-radius: 25px;}
+.derechos{font-family: cursive;border-radius: 25px;}
+.imgprin{width: 1200px;border-radius: 25px;}
+.centrar{text-align: center;border-radius: 25px;}
+.imgcolumna{width: 150px;border-radius: 25px;}
+.redes{width: 30 px; height: 30px}
+.pre{font-size: 90px}
